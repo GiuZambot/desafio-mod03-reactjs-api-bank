@@ -4,6 +4,7 @@
 
 Após alguns meses trabalhando em projetos mais simples, você foi designado pelo seu Tech Lead para desenvolver uma aplicação que será apresentada a um cliente muito importante.
 
+Para acessar o repositório da API que será consumida no front, acesse o seguinte [link](https://github.com/cubos-academy/dindin-api).
 
 Para o seu desenvolvimento foi liberado layout que você pode encontrar no seguinte [ link](https://www.figma.com/file/65wDh5PJwzSy7IYOS4AWAj).
 
